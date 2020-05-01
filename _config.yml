@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 1a77ed140b010bbc8189                            #生成的clientID
-  clientSecret: 15a13ab0060aef53d5f4757845fbd318029fe6c0    #生成的clientSecret
+  clientID: 81d2e8ab41849e4069b9                           #生成的clientID
+  clientSecret: 17fcc705e36ca316dd33534cfab9e1eba5e6f394    #生成的clientSecret
   repo: yuzhenghao-OIer.github.io    #仓库名称
   owner: yuzhenghao-OIer    #github用户名
   admin: yuzhenghao-OIer
