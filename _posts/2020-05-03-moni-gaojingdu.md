@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      专题训练 ｜ 递归与递推赛前知道
+title:      专题训练 ｜ 递归与递推赛前指导
 subtitle:   
 date:       2020-05-03
 author:     虞正皓
