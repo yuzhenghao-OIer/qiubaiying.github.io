@@ -9,7 +9,7 @@ catalog: false
 tags:
     - 算法
 ---
-## 本文所有题目都在：<https://www.luogu.com.cn/training/9473#problems>
+### 本文所有题目都在：<https://www.luogu.com.cn/training/9473#problems>
 
 所谓“建模”，就是把事物进行抽象，根据实际问题来建立对应的数学模型。“抽象”并不意味着晦涩难懂；相反，它提供了大量的便利。计算机很难直接去解决实际问题，但是如果把实际问题建模成数学问题，就会大大地方便计算机来“理解”和“解决”。
 
