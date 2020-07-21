@@ -33,11 +33,5 @@ tags:
 
 还是蛮好吃的。
 
-降落的话由于侧风的原因略有一些中，不过依然在可接受范围内
-
-行了，看看拍的图吧
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ggyowalpkaj302i03c0sj.jpg)
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ggyowbu21pj30u01h678k.jpg)![](https://tva1.sinaimg.cn/large/007S8ZIlly1ggyowc2ijcj301v03c0sj.jpg)
+降落的话由于侧风的原因略有一些中，不过依然在可接受范围内。
 
