@@ -12,7 +12,7 @@ github_repo: "https://github.com/yuzhenghao-OIer/yuzhenghao-OIer.github.io" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Write my name in front of the mountain."
-sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/touxiang.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
